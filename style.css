@@ -81,3 +81,16 @@ a:hover {
     align-items: center;
     flex-direction: column; 
 }
+
+
+#myProgressBar{
+    width: 80vw; 
+    cursor: pointer;
+}
+
+.icons{
+    margin-top: 14px; 
+}
+.icons i{
+    cursor: pointer;
+}
