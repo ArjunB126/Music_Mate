@@ -12,7 +12,7 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName: "", filePath: "" , coverPath: "Asal_Mein.jpg"},
-    {songName: "", filePath: "", coverPath: "Cover/Ek_tarfa.jpg"},
+    {songName: "", filePath: "", coverPath: "Ek_tarfa.jpg"},
     {songName: "", filePath: "", coverPath: "covers/3.jpg"},
     {songName: "", filePath: "", coverPath: "covers/4.jpg"},
     {songName: "", filePath: "", coverPath: "covers/5.jpg"},
@@ -24,5 +24,5 @@ let songs = [
 ]
 
 masterPlay.addEventListener('click',()=>{
-    
+
 })
